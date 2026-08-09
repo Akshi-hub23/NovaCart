@@ -22,3 +22,19 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Visual Studio
+.vs/
+
+# .NET build files
+**/bin/
+**/obj/
+
+# User-specific Visual Studio files
+*.user
+*.suo
+
+# Environment files
+.env
+.env.*
+!.env.example
