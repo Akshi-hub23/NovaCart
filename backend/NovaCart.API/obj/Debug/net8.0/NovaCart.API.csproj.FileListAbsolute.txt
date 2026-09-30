@@ -1,0 +1,9 @@
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.csproj.AssemblyReference.cache
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.AssemblyInfoInputs.cache
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.AssemblyInfo.cs
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.csproj.CoreCompileInputs.cache
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.MvcApplicationPartsAssemblyInfo.cs
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.MvcApplicationPartsAssemblyInfo.cache
+D:\1tb_backup\documents\Github\NovaCart\backend\NovaCart.API\obj\Debug\net8.0\NovaCart.API.sourcelink.json

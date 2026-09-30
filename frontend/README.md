@@ -1,5 +1,21 @@
 # React + TypeScript + Vite
 
+## NovaCart Step 91
+
+The storefront now uses a compact marketplace shopping experience with category navigation, search-led discovery, promotional merchandising, product rails, brand discovery, responsive results filters, and practical product detail presentation. Existing APIs, authentication, cart, orders, reviews, and admin routes remain unchanged.
+
+## NovaCart Step 93
+
+The Products page now supports data-backed category, price, custom price, and availability filters with active filter chips, clear actions, combined search/sort/pagination, desktop sidebar layout, and mobile filter drawer behavior. Brand, rating, discount, and gender filtering require fields not currently available in the Product model and remain deferred.
+
+## NovaCart Step 94
+
+Step 94 completed - NovaCart global design system and visual consistency updated. Shared styling now uses consistent marketplace tokens for color, typography, spacing, containers, controls, focus states, cards, and responsive behavior.
+
+## NovaCart Step 113
+
+The Admin Dashboard now presents its existing product, category, and order counts in a responsive Classic Premium layout, with clear links to all available admin areas and no fabricated user metric.
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

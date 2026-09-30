@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("73f94cee-ae44-4257-9cf2-7cc7df2a84b0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovaCart.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d00de637b13c497baf4de10a21a4a3aa27037cdd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5ac0761a6abfb058ec484a5cfe23dada1d585bb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovaCart.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovaCart.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

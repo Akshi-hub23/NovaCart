@@ -38,3 +38,8 @@ dist-ssr
 .env
 .env.*
 !.env.example
+
+# Development configuration
+**/appsettings.Development.json
+
+NovaCart_Project_Roadmap_and_Reference.md
