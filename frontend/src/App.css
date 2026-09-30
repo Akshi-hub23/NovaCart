@@ -1026,3 +1026,16 @@
   .home-page .product-content { padding: 7px; }
   .home-page .product-image-wrap { margin-inline: 6px; }
 }
+
+@media (max-width: 767px) {
+  .home-top-strip {
+    align-items: center;
+    gap: 2px 8px;
+    padding: 2px 0 6px;
+    font-size: .68rem;
+    line-height: 1.25;
+    text-align: center;
+  }
+  .home-top-strip > span { flex: 1 1 100%; }
+  .home-top-strip > a { min-height: 26px; }
+}
