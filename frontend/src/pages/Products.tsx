@@ -44,7 +44,7 @@ function Products() {
   const [sortOption, setSortOption] = useState("default");
   const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
 
-  const productsPerPage = 8;
+  const productsPerPage = 9;
 
   useEffect(() => {
     async function loadProducts() {

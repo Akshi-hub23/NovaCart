@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NovaCart.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5ebf9c3a75f4f63e867cd9486cd70f003c7824a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d54a32f3cebd7e5fd9766b8014a381046b3585a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("NovaCart.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NovaCart.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

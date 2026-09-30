@@ -103,8 +103,8 @@
 .filter-panel .filter-group:last-child { border-bottom: 0; }
 .filter-panel .filter-group > summary { display: flex; align-items: center; justify-content: space-between; color: var(--text-main); font-size: .82rem; font-weight: 800; cursor: pointer; list-style: none; }
 .filter-panel .filter-group > summary::-webkit-details-marker { display: none; }
-.filter-panel .filter-group > summary::after { content: "+"; color: var(--accent); font-size: 1.1rem; }
-.filter-panel .filter-group[open] > summary::after { content: "âˆ’"; }
+.filter-panel .filter-group > summary::after { content: ""; width: 8px; height: 8px; margin: 0 3px 3px 0; border-right: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: rotate(45deg); transition: transform .15s ease; }
+.filter-panel .filter-group[open] > summary::after { transform: rotate(225deg); }
 .filter-panel .select-control { display: block; width: 100%; max-width: none; }
 .filter-option { display: flex; align-items: center; gap: 9px; min-height: 32px; color: var(--text-muted); cursor: pointer; font-size: .78rem; }
 .filter-option input { accent-color: var(--accent-hover); width: 15px; height: 15px; }
